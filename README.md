@@ -1,5 +1,4 @@
 # NetNTLMv2-and-Office-Docs-Research
-digging into using office/Word .xml files and "recent" docx/xlsx/etc. 
 
 Was talking with some friends on discord, and the conversation started with a couple links and seeing whether some combo of these 2 would still work in 2023: https://blog.didierstevens.com/2017/11/13/webdav-traffic-to-malicious-sites/ and https://bohops.com/2018/08/04/capturing-netntlm-hashes-with-office-dot-xml-documents/. 
 
