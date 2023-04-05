@@ -19,3 +19,5 @@ The tiny, highlighted box under "Test" in the document in the screenshot below i
 Given this was a conversation started this morning, I haven't had the time to sit down and figure out how to expand and continue down this rabbit hole, but at a base level seems ripe for assumed breach/internal tests. Configuring .docx files with IncludePicture using the SMB share path is trivial and can easily be abused, however I have a feeling this is going to be more of an "intended functionality."  
 
 I'll also note that the SMB "paths" configured were IPs, not FQDNs. If this ends up being a widely used attack vector and Microsoft attempts to resolve these vulnerabilities with an approach similar to how they "fixed" PrintNightmare, Follina, and most recently CVE-2023-23397, I'd expect this vector to be viable/bypasses to the patch(es) to be found quickly. 
+
+This was really interesting to dig into initially, and I am planning to investigate more as time/life allows. I'm sure these attack vectors have been looked into in the past/this isn't anything new, but I enjoy learning something new and tinkering with stuff, so thought someone else might like to read about it as well. 
